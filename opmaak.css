@@ -140,6 +140,10 @@ a{
   text-align: center;
 }
 
+.badgewallet_iframe{
+  text-align: center;
+}
+
 .footer{
   display: block;
   background-color: black;
